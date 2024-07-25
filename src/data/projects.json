@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Portfolio Website",
+      "imageSrc": "projects/project.png",
+      "description": "A fully responsive portfolio website utilizing MERN stack",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "E-Commerce Application",
+      "imageSrc": "projects/project.png",
+      "description": "A full-stack application that allows users to browse and purchase products",
+      "skills": ["React", "Express", "Node", "SQL"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Virtual Filesystem",
+      "imageSrc": "projects/project.png",
+      "description": "Utilized an array of data structures to implement a terminal with basic functionalities",
+      "skills": ["C++"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]

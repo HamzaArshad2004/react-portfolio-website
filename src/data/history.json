@@ -1,0 +1,29 @@
+[
+    {
+    "role": "Software Engineering Fellow",
+    "organisation": "Headstarter AI",
+    "startDate": "Jul, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Built 5+ AI apps and APIs using Next.JS, OpenAI, Pinecone, StripeAPI with 98% accuracy as seen by 1000 users",
+      "Coached by Amazon, Bloomberg and CapitalOne engineers on Agile, CI/CD, Git and microservice patterns"
+    ],
+    "imageSrc": "history/headstarterlogo.png"
+    },
+    {
+      "role": "Machine Learning Research Intern",
+      "organisation": "Center for Quantum and Topological Systems (CQTS)",
+      "startDate": "Oct, 2023",
+      "endDate": "Present",
+      "experiences": ["Specialize in AI through hands-on training in machine learning and deep learning frameworks - PyTorch and Pennylane", "Contribute to research in noise reduction in quantum circuits"],
+      "imageSrc": "history/cqtslogo.png"
+    },
+    {
+      "role": "Software Engineering Intern",
+      "organisation": "Pet Republic",
+      "startDate": "Nov, 2023",
+      "endDate": "Jan, 2024",
+      "experiences": ["Worked on the development of the web application through UX friendly landing pages", "Developed and managed the company database"],
+      "imageSrc": "history/prlogo.png"
+    }
+]
