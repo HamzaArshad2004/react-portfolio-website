@@ -14,3 +14,4 @@ Currently, two official plugins are available:
 # portfolio-website
 # portfolio-website
 # portfolio-website
+# react-portfolio-website
